@@ -28,16 +28,17 @@ Ce guide vous montre comment télécharger, installer et configurer Fiddler pour
 
    ![Activer la capture HTTPS dans Fiddler](images/2eme.png)
 
-3. Modification des Requêtes HTTP et HTTPS
+3. Modification des `Requêtes` `HTTP` et `HTTPS`
   
-  Utiliser les Rules :
+
 ## Allez dans Rules > Automatically Authenticate Coché cette option.
+
+
+1.Rules.
+
+   ![Rules](images/3eme.png)
+
 ### Allez dans Rules > Customize Rules
-
-1.Rules
-     ![Rules](images/3eme.png)
-
-
 2.Coché cette option -> Automatically Authenticate 
      ![Activer la Automatically Authenticate](images/4eme.png)
 
