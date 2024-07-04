@@ -23,38 +23,29 @@ Ce guide vous montre comment télécharger, installer et configurer Fiddler pour
 1. Allez dans `Tools` > `Options`.
 
    ![Ouvrir les Options dans Fiddler](images/1er.png)
-
+   
 2. Sous l'onglet `HTTPS`, assurez-vous que l'option `Capture HTTPS CONNECTs` est activée.
 
    ![Activer la capture HTTPS dans Fiddler](images/2eme.png)
 
-3. Modification des `Requêtes` `HTTP` et `HTTPS`
-  
+### Modification des Requêtes HTTP et HTTPS
 
-## Allez dans Rules > Automatically Authenticate Coché cette option.
+1. Allez dans `Rules` > `Automatically Authenticate`.
 
+   ![Activer Automatically Authenticate](images/3eme.png)
 
-1.Rules.
+2. Allez dans `Rules` > `Customize Rules`.
 
-   ![Rules](images/3eme.png)
-
-### Allez dans Rules > Customize Rules.
-2.Coché cette option -> Automatically Authenticate 
-     ![Activer la Automatically Authenticate](images/4eme.png)
-
-
-3.Allez dans Rules > Customize Rules. 
-     ![Clické sur Customize Rules.](images/image.png)
+   ![Activer la Customize Rules](images/4eme.png)
 
    Cela ouvrira un éditeur de texte où vous pourrez écrire des scripts en utilisant JScript.NET pour modifier les requêtes et réponses.
 
+## Capture d'écran
 
-## Capture d'écran.
+Voici des captures d'écran supplémentaires des options de configuration dans Fiddler :
 
-Voici une capture d'écran des options de configuration HTTPS dans Fiddler :
-
-![Capture d'écran des options HTTPS dans Fiddler](images/5eme.png)
-![Capture d'écran des options HTTPS dans Fiddler](images/6eme.png)
+![Capture d'écran 1](images/5eme.png)
+![Capture d'écran 2](images/6eme.png)
 
 ---
 
