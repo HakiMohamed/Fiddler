@@ -44,13 +44,13 @@ Ce guide vous montre comment télécharger, installer et configurer Fiddler pour
 
 
 
-ajouter func  getMACAdress() et leur contenu  à l'intérieur de  class Handlers:
+## ajouter func  getMACAdress() et leur contenu  à l'intérieur de  class Handlers:
 
 
 ![Capture d'écran 1](images/5eme.png)
 
 
-Chercher sur la function OnBeforeRequest et ajouter ce script:
+## Chercher sur la function OnBeforeRequest et ajouter ce script:
 
 
 ![Capture d'écran 2](images/6eme.png)
