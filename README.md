@@ -38,7 +38,7 @@ Ce guide vous montre comment télécharger, installer et configurer Fiddler pour
 
    ![Rules](images/3eme.png)
 
-### Allez dans Rules > Customize Rules
+### Allez dans Rules > Customize Rules.
 2.Coché cette option -> Automatically Authenticate 
      ![Activer la Automatically Authenticate](images/4eme.png)
 
@@ -49,7 +49,7 @@ Ce guide vous montre comment télécharger, installer et configurer Fiddler pour
    Cela ouvrira un éditeur de texte où vous pourrez écrire des scripts en utilisant JScript.NET pour modifier les requêtes et réponses.
 
 
-## Capture d'écran
+## Capture d'écran.
 
 Voici une capture d'écran des options de configuration HTTPS dans Fiddler :
 
