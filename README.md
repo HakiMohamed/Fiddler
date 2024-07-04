@@ -40,9 +40,9 @@ Ce guide vous montre comment télécharger, installer et configurer Fiddler pour
 
    Cela ouvrira un éditeur de texte où vous pourrez écrire des scripts en utilisant JScript.NET pour modifier les requêtes et réponses.
 
-## Capture d'écran
+## scripts
 
-Voici des captures d'écran supplémentaires des options de configuration dans Fiddler :
+Voici des captures d'écran des options de configuration dans Fiddler avec Customize Rules :
 
 ![Capture d'écran 1](images/5eme.png)
 ![Capture d'écran 2](images/6eme.png)
