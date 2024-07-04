@@ -22,11 +22,11 @@ Ce guide vous montre comment télécharger, installer et configurer Fiddler pour
 
 1. Allez dans `Tools` > `Options`.
 
-   ![Ouvrir les Options dans Fiddler](images\1er.png)
+   ![Ouvrir les Options dans Fiddler](images/1er.png)
 
 2. Sous l'onglet `HTTPS`, assurez-vous que l'option `Capture HTTPS CONNECTs` est activée.
 
-   ![Activer la capture HTTPS dans Fiddler](images\2eme.png)
+   ![Activer la capture HTTPS dans Fiddler](images/2eme.png)
 
 3. Modification des Requêtes HTTP et HTTPS
   
@@ -35,15 +35,15 @@ Ce guide vous montre comment télécharger, installer et configurer Fiddler pour
 ### Allez dans Rules > Customize Rules
 
 1.Rules
-     ![Rules](images\3eme.png)
+     ![Rules](images/3eme.png)
 
 
 2.Coché cette option -> Automatically Authenticate 
-     ![Activer la Automatically Authenticate](images\4eme.png)
+     ![Activer la Automatically Authenticate](images/4eme.png)
 
 
 3.Allez dans Rules > Customize Rules. 
-     ![Clické sur Customize Rules.](images\image.png)
+     ![Clické sur Customize Rules.](images/image.png)
 
    Cela ouvrira un éditeur de texte où vous pourrez écrire des scripts en utilisant JScript.NET pour modifier les requêtes et réponses.
 
@@ -52,8 +52,8 @@ Ce guide vous montre comment télécharger, installer et configurer Fiddler pour
 
 Voici une capture d'écran des options de configuration HTTPS dans Fiddler :
 
-![Capture d'écran des options HTTPS dans Fiddler](images\5eme.png)
-![Capture d'écran des options HTTPS dans Fiddler](images\6eme.png)
+![Capture d'écran des options HTTPS dans Fiddler](images/5eme.png)
+![Capture d'écran des options HTTPS dans Fiddler](images/6eme.png)
 
 ---
 
@@ -601,7 +601,7 @@ class Handlers
 
 
 
-
+```
 
 
 
