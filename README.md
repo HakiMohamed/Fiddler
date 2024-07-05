@@ -58,7 +58,7 @@ Ce guide vous montre comment télécharger, installer et configurer Fiddler pour
 ---
 
 
-# Copier ce script et le colier dans Customize Rules .
+# Copiez ce script et collez-le dans Customize Rules .
 
 
 ```javascript
